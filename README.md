@@ -1,7 +1,7 @@
 Quiz-Project
-Quiz with some high school questions
+University project to make a quiz with some high school questions.
 
-- O .json guarda as perguntas junto com suas informações (gabarito, peso, dificuldade etc)
+- Baixe o arquivo "perguntas.json" antes de rodar o programa
 
 - Descrição
 Primeiramente o usuário digitará seu nome para o jogo se dirigir diretamente a
